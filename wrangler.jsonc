@@ -10,15 +10,15 @@
     "d1_databases": [
         {
           "binding": "DB",
-          "database_name": "d1-rest-d1",
-          "database_id": "088c0701-4291-45c1-bcc8-a74cdd477673"
+          "database_name": "dgw_date",
+          "database_id": "55e57ff3-c416-424a-9b02-b9a193f897ab"
         }
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "<YOUR-STORE-ID>",
+            "store_id": "a0105a95745a4615887cefed08eea817",
             "binding": "SECRET",
-            "secret_name": "<YOUR-SECRET-NAME>"
+            "secret_name": "33"
         }
     ],
 	"observability": {
